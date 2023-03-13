@@ -1,0 +1,12 @@
+{
+  "name": "chatgpt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "inplaceEncryption": "node inplace-encryption-decryption/encrypt.js",
+    "inplaceDecryption": "node inplace-encryption-decryption/decrypt.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
