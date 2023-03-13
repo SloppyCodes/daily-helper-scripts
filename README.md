@@ -13,7 +13,7 @@ This repository contains a collection of Node.js scripts that can be useful for 
 
 To get started with these scripts, you'll need to have Node.js and npm installed on your machine.
 
-1. Clone this repository to your local machine using `git clone https://github.com/username/nodejs-scripts.git`
+1. Clone this repository to your local machine using `git clone https://github.com/SloppyCodes/nodejs-helper-scripts`
 2. Install the dependencies using `npm install`
 
 ## Scripts
