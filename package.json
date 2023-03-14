@@ -5,8 +5,16 @@
   "main": "index.js",
   "scripts": {
     "inplaceEncryption": "node inplace-encryption-decryption/encrypt.js",
-    "inplaceDecryption": "node inplace-encryption-decryption/decrypt.js"
+    "inplaceDecryption": "node inplace-encryption-decryption/decrypt.js",
+    "deleteOldFiles": "node delete-old-files/deleteOldFiles.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@mapbox/node-pre-gyp": "^1.0.10",
+    "@tensorflow/tfjs": "^4.2.0",
+    "glob": "^7.2.3",
+    "sharp": "^0.31.3",
+    "tesseract.js": "^4.0.2"
+  }
 }

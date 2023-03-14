@@ -20,7 +20,8 @@ To get started with these scripts, you'll need to have Node.js and npm installed
 
 The following is a list of scripts included in this repository:
 
-- `Inplace-encryption-decryption`: Scripts that will encrypt/decrypt a folder's content.
+- `Inplace-encryption-decryption`: NodeJS script that will encrypt/decrypt a folder's content.
+- `find-dir-images-containing-specific-item`: Scripts that will encrypt/decrypt a folder's content.
 
 ## Contributing
 
