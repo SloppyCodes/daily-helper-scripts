@@ -6,14 +6,20 @@
   "scripts": {
     "inplaceEncryption": "node inplace-encryption-decryption/encrypt.js",
     "inplaceDecryption": "node inplace-encryption-decryption/decrypt.js",
-    "deleteOldFiles": "node delete-old-files/deleteOldFiles.js"
+    "aiTextToDrawing": "node ai-text-to-drawing/aiTextToDrawing.js",
+    "deleteOldFiles": "node delete-old-files/deleteOldFiles.js",
+    "sortFilesByExtension": "node sort-files-by-extension/sortFilesByExtension.js",
+    "textToImage": "node text-to-image/textToImage.js",
+    "converrtImaagesToPng": "node convert-images-to-png/convertImagesToPng.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "@mapbox/node-pre-gyp": "^1.0.10",
     "@tensorflow/tfjs": "^4.2.0",
+    "canvas": "^2.11.0",
     "glob": "^7.2.3",
+    "openai": "^3.2.1",
     "sharp": "^0.31.3",
     "tesseract.js": "^4.0.2"
   }

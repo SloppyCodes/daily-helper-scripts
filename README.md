@@ -21,7 +21,13 @@ To get started with these scripts, you'll need to have Node.js and npm installed
 The following is a list of scripts included in this repository:
 
 - `Inplace-encryption-decryption`: NodeJS script that will encrypt/decrypt a folder's content.
-- `find-dir-images-containing-specific-item`: Scripts that will encrypt/decrypt a folder's content.
+- `sort-files-by-extension`: NodeJS script that will sort files in a specified folder by their extensions.
+- `delete-old-files`: NodeJS script that will delete files older than a specified date.
+- `compress-images`: NodeJS script that will compress all images contained in a specified folder.
+- `ai-text-to-drawing`: NodeJS script that will generate an image from a specified text prompt using the OpenAI API.
+- `image-to-png`: NodeJS script that will convert all images in a specified folder to `.png` format.
+- `image-to-text`: NodeJS script that will try to write the text from an image to a text file.
+- `text-to-image`: NodeJS script that will create an image file containing a specified text.
 
 ## Contributing
 
